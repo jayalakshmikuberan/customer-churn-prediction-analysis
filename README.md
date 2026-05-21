@@ -48,3 +48,9 @@ Businesses lose revenue when customers leave (churn). The goal of this project i
 ## Connect
 - LinkedIn: linkedin.com/in/jayalakshmi-kuberan-92452b2a5
 - GitHub: github.com/jayalakshmikuberan
+
+  ## Business Insights
+- Customers with low engagement showed higher churn probability
+- Contract type and monthly charges strongly influenced retention
+- Identified key factors affecting customer loyalty
+- Generated actionable insights to improve customer retention strategies
